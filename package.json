@@ -1,0 +1,27 @@
+{
+  "name": "expressjs-server",
+  "version": "1.0.0",
+  "description": "Basic server hosted using expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supreetpal/expressjs-server.git"
+  },
+  "keywords": [
+    "expressjs",
+    "server",
+    "node"
+  ],
+  "author": "supreetpal@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supreetpal/expressjs-server/issues"
+  },
+  "homepage": "https://github.com/supreetpal/expressjs-server",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
